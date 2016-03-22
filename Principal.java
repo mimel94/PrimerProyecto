@@ -18,6 +18,7 @@ public class Principal {
 		String nombrePersona ="";		
 		do{
 			System.out.println("----------------------------------------");
+			System.out.println("----------------------------------------");
 			System.out.println("Software de Gestion :D\n\n");
 			System.out.println(
 					"1)Registrar.\n" +
