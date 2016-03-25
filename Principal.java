@@ -17,7 +17,7 @@ public class Principal {
 		int guardar=0;
 		String nombrePersona ="";		
 		do{
-			System.out.println("----------------------------------------");
+			System.out.println("------------Trabajando en github------------");
 			System.out.println("----------------------------------------");
 			System.out.println("Software de Gestion :D\n\n");
 			System.out.println(
